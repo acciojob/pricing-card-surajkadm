@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+p{
+			margin: 0;
+			width: 180px;
+			text-align: center;
+}
+.btn{
+			background-color: #FE625A;
+			color: white;
+			padding: 10px;
+			border: none;
+			border-radius: 10px;
+}
+.card{
+			width: 300px;
+			background-color: #F1F1F1;
+			padding: 20px;
+			display: flex;
+			border-radius: 10px;	
+			flex-direction: column;
+			align-items: center;
+}
+img {
+			width: 100%;
+			padding: 20px;
+}
